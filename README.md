@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yaswanth 👋
 
+I'm a BTech student interested in mathematics, computer science and problem-solving.
+
+### Currently Learning
+- Python
+- Data Structures & Algorithms
+- Competitive Programming
+- Mathematics
+
+### My Progress
+Documenting my journey through programming, problem-solving and independent projects.
 <!--
 **yaswanthevuri-lab/yaswanthevuri-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
